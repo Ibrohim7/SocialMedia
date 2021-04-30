@@ -27,7 +27,7 @@ public class newObject {
             command = scanner.nextInt();
             switch (command) {
                 case 1:
-                    social.name = "Instagram";
+                    social.name ="Instagram";
                             social.model = "2021";
                             social.users = 975763112;
                             social.price = 9;
@@ -38,31 +38,31 @@ public class newObject {
                     break;
                 case 2:
                     social.name = "Telegram";
-                    social.model = "2021";
-                    social.users = 975763112;
+                    social.model = "X";
+                    social.users = 6457631;
                     social.price = 9;
-                    social.year = 2000;
-                    social.color = "red";
+                    social.year = 2003;
+                    social.color = "blue";
                     social.developer = "Ibrokhim";
                     social(social);
                     break;
                 case 3:
                     social.name = "Facebook";
-                    social.model = "2021";
-                    social.users = 975763112;
-                    social.price = 9;
-                    social.year = 2000;
-                    social.color = "red";
+                    social.model = "SP";
+                    social.users = 635112;
+                    social.price = 0.9;
+                    social.year = 1980;
+                    social.color = "blue";
                     social.developer = "Ibrokhim";
                     social(social);
                     break;
                 case 4:
                     social.name = "Twitter";
-                    social.model = "2021";
-                    social.users = 975763112;
-                    social.price = 9;
-                    social.year = 2000;
-                    social.color = "red";
+                    social.model = "LK";
+                    social.users = 5133112;
+                    social.price = 6;
+                    social.year = 1998;
+                    social.color = "blue nd white";
                     social.developer = "Ibrokhim";
                     social(social);
                     break;
